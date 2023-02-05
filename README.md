@@ -1,2 +1,3 @@
 # She-Ra
-She-Ra cospley models for 3D printing
+She-Ra cosplay models for 3D printing
+
